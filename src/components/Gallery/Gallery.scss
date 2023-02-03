@@ -1,0 +1,30 @@
+.c-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgba(0, 153, 255, 0.919);
+    &__item {
+        width: calc(46% - 4px);
+        padding: 10px;
+        box-sizing: border-box;
+        margin: 2%;
+        background-color: #363434;
+        
+        border-radius: 30px;
+        display: flex;
+        
+        &--left {
+            flex-direction: row-reverse;
+        }
+    }
+
+    &__text{
+        padding: 50px;
+        border-radius: 50%;
+        color: white;
+        font-family: "theSimpsons";
+        
+    }
+    &__img{
+        width: 150px;
+    }
+}
