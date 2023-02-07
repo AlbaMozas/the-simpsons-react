@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.efa8774c.css",
+    "main.js": "/static/js/main.90e48454.js",
+    "static/js/787.228929fe.chunk.js": "/static/js/787.228929fe.chunk.js",
+    "static/media/Simpsonfont DEMO.tff.otf": "/static/media/Simpsonfont DEMO.tff.f186689dc82e32fb3352.otf",
+    "index.html": "/index.html",
+    "main.efa8774c.css.map": "/static/css/main.efa8774c.css.map",
+    "main.90e48454.js.map": "/static/js/main.90e48454.js.map",
+    "787.228929fe.chunk.js.map": "/static/js/787.228929fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efa8774c.css",
+    "static/js/main.90e48454.js"
+  ]
+}
